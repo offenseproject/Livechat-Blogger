@@ -1,4 +1,4 @@
-# Livechat-Blogger [v.1.0]
+# Livechat-Blogger [Offense Project]
 Script Live Chat yg berguna untuk memudahkan visitor/pengunjung agar bisa saling berdiskusi langsung secara Realtime tanpa repot repot lagi meninggalkan jejak komentar yg sangat sulit sekali di notice bagi para pemilik Blogger, semua sudah saya buat selengkap mungkin dengan beberapa fitur diantaranya :
 
 # CHANGELOG VERSI v1.0
